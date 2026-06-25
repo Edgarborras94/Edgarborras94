@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Edgar Borràs</h1>
+  <h1>Hi 👋, I'm Edgar Borrás</h1>
   <p><strong>CTO @ Undefined Studio SL | AI Systems & Full Stack Engineer 🧙‍♂️</strong></p>
 
   <p>
