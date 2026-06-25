@@ -55,7 +55,7 @@ I specialize in bridging the gap between non-deterministic LLMs and hard-coded b
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=edgarborras94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=edgarborras94&show_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarborras94&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
@@ -64,5 +64,5 @@ I specialize in bridging the gap between non-deterministic LLMs and hard-coded b
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edgarborras94&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=edgarborras94&theme=tokyonight&column=7" alt="trophies" />
 </p>
