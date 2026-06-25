@@ -55,14 +55,9 @@ I specialize in bridging the gap between non-deterministic LLMs and hard-coded b
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=edgarborras94&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarborras94&layout=compact&theme=tokyonight&hide=html,css" />
+  <img src="https://streak-stats.demolab.com/?user=edgarborras94&theme=tokyonight" alt="Edgar's GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=edgarborras94&theme=tokyonight" />
-</div>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edgarborras94&theme=tokyonight&column=7" alt="trophies" />
-</p>
+> 💡 **Note for Recruiters:** Most of my production code, AI orchestrations, and daily engineering work happens within private organization repositories at **Undefined Studio** and **Toten.app**, which is why language-specific public metrics may appear limited.
