@@ -21,7 +21,7 @@ I am a Senior Software Engineer and CTO with **8+ years of experience** building
 I specialize in bridging the gap between non-deterministic LLMs and hard-coded business logic—creating fault-tolerant AI integrations that deliver precise, reliable results in real-world business environments (including AI-driven ERP modules and intelligent gym management software).
 
 - 🧠 **AI Focus:** Designing prompt flows, tool/function calling orchestration, and multi-agent systems in production.
-- 🛠️ **Core Work:** High-scale system design, backend resilience (Laravel), and fluid type-safe interfaces (Vue + TypeScript).
+- 🛠️ **Core Work:** High-scale system design, backend resilience (Laravel, Spring Boot), and fluid type-safe interfaces (Vue + TypeScript).
 - 🏗️ **Role:** CTO @ Undefined Studio SL.
 - 🎮 **Fun Fact:** I have a background in game development using Unity & Unreal Engine.
 
@@ -47,10 +47,12 @@ I specialize in bridging the gap between non-deterministic LLMs and hard-coded b
 ⚡️ **Languages & Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
 
 🎨 **Frontend & UI Frameworks**
